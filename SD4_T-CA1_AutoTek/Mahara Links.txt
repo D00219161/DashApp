@@ -2,6 +2,10 @@ Team Mahara Page: https://mahara.dkit.ie/view/view.php?t=39anMHPkeNFCwxJvG7Es
 Roisin's Page: https://mahara.dkit.ie/view/view.php?t=y7hL5PAFSzb2O9w06ufa
 Aisling's Page: No page as mahara issues still on going
 Kingsley's Page: https://mahara.dkit.ie/view/view.php?id=101414
+<<<<<<< HEAD
 Yahya's Page: https://mahara.dkit.ie/view/view.php?t=NQIlBe6UwdfrnO1kDZWh
 GitHub Repo: https://github.com/D00219161/DashWarningApp.git
 Scrumwise: https://www.scrumwise.com/scrum/#/sprints/project/l8-sd4-2021-aftermath-tech/id-31429-70635-94
+=======
+Yahya's Page: https://mahara.dkit.ie/view/view.php?t=NQIlBe6UwdfrnO1kDZWh
+>>>>>>> main
